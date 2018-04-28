@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<item>  
+<title>New Quote</title>
+  <link>http://arnold-schwarzenegger.000webhostapp.com/index.html</link>
+  <description>Well, you know, I'm the forever optimist. </description>
+  </item>
+
+  <item>
+    <title>New Quote</title>
+    <link>http://arnold-schwarzenegger.000webhostapp.com/index.html</link>
+    <description>I have a private plane. But I fly commercial when I go to environmental conferences..</description>
+  </item>
+  <item>
+    <title>New Quote</title>
+    <link>http://arnold-schwarzenegger.000webhostapp.com/index.html</link>
+    <description>I have a love interest in every one of my films: a gun. </description>
+  </item>
+</channel>
+
+</rss> 
